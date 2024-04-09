@@ -1,0 +1,10 @@
+.home-style {
+    flex-grow: 1;
+    background-color: yellow;
+}
+
+.heading {
+    margin: 0;
+    text-align: center;
+    padding: 10px;
+}
